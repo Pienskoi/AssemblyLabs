@@ -1,0 +1,10 @@
+# MASM32 Listing files
+*.lst
+# MASM32 Object files
+*.obj
+# MASM32 Link files
+*.lnk
+
+# Executables
+*.exe
+*.com
